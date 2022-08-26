@@ -1,6 +1,5 @@
-hell
-hello github!!!!44444
-hello 1
-hello 2
-hello 3
-hello github 4
+public class HelloWorld{
+   public static void main(String[] args) {
+        System.out.println("HelloWorld");
+    }
+}
